@@ -1,0 +1,242 @@
+[
+    {
+        "title": "경기도_도서 관련 업체 현황",
+        "provider_organization": "경기도",
+        "update_date": "2019-09-16",
+        "hits": "2269",
+        "request_count": "174",
+        "keyword": "지역서점,책방,도서대여점"
+    },
+    {
+        "title": "제주특별자치도_제주공공도서관 도서검색 정보",
+        "provider_organization": "제주특별자치도",
+        "update_date": "2019-12-19",
+        "hits": "3414",
+        "request_count": "215",
+        "keyword": "도서관,공공도서관,프로그램"
+    },
+    {
+        "title": "한국체육산업개발주식회사_올림픽공원 도서정보",
+        "provider_organization": "한국체육산업개발주식회사",
+        "update_date": "2023-09-18",
+        "hits": "1985",
+        "request_count": "161",
+        "keyword": "올림픽공원,도서관,지샘터"
+    },
+    {
+        "title": "부산광역시_도서신착자료",
+        "provider_organization": "부산광역시",
+        "update_date": "2023-04-03",
+        "hits": "1456",
+        "request_count": "69",
+        "keyword": "도서,저자명,도서관명"
+    },
+    {
+        "title": "부산광역시_도서인기검색어",
+        "provider_organization": "부산광역시",
+        "update_date": "2021-09-23",
+        "hits": "1934",
+        "request_count": "61",
+        "keyword": "도서,순위,종류"
+    },
+    {
+        "title": "국토교통부_도서정보서비스",
+        "provider_organization": "국토교통부",
+        "update_date": "2022-03-08",
+        "hits": "5792",
+        "request_count": "102",
+        "keyword": "용도지역,용도지구,토지이용"
+    },
+    {
+        "title": "독립기념관_소장도서목차",
+        "provider_organization": "독립기념관",
+        "update_date": "2021-12-08",
+        "hits": "1175",
+        "request_count": "85",
+        "keyword": "독립운동,역사,소장도서"
+    },
+    {
+        "title": "문화체육관광부_국립어린이청소년도서관_사서추천도서",
+        "provider_organization": "문화체육관광부",
+        "update_date": "2022-08-24",
+        "hits": "1026",
+        "request_count": "127",
+        "keyword": "도서관,국립어린이청소년도서관,추천도서"
+    },
+    {
+        "title": "인천광역시_독도등도서지역의생태계보전/특정도서",
+        "provider_organization": "인천광역시",
+        "update_date": "2022-09-02",
+        "hits": "1462",
+        "request_count": "64",
+        "keyword": "독도,도서지역,생태계보전"
+    },
+    {
+        "title": "예금보험공사 발간도서 목록",
+        "provider_organization": "예금보험공사",
+        "update_date": "2021-02-19",
+        "hits": "3832",
+        "request_count": "34",
+        "keyword": "예금보험,KDIC,도서"
+    },
+    {
+        "title": "울산광역시_전자도서 정보",
+        "provider_organization": "울산광역시",
+        "update_date": "2022-11-11",
+        "hits": "1299",
+        "request_count": "29",
+        "keyword": "전자책,도서,자료실"
+    },
+    {
+        "title": "독립기념관_소장도서색인",
+        "provider_organization": "독립기념관",
+        "update_date": "2022-08-22",
+        "hits": "1043",
+        "request_count": "54",
+        "keyword": "독립운동,역사,소장도서"
+    },
+    {
+        "title": "농림축산식품부 농식품공무원교육원_소장 도서목록_API",
+        "provider_organization": "농림축산식품부 농식품공무원교육원",
+        "update_date": "2022-06-21",
+        "hits": "678",
+        "request_count": "27",
+        "keyword": "소장도서,도서목록,도서"
+    },
+    {
+        "title": "경상남도_농업관련 도서",
+        "provider_organization": "경상남도",
+        "update_date": "2020-08-03",
+        "hits": "1964",
+        "request_count": "21",
+        "keyword": "경상남도,농업,도서"
+    },
+    {
+        "title": "울산광역시_도서_정보",
+        "provider_organization": "울산광역시",
+        "update_date": "2022-02-07",
+        "hits": "1220",
+        "request_count": "18",
+        "keyword": "전자책,도서,자료실"
+    },
+    {
+        "title": "부산광역시_주간인기대출도서",
+        "provider_organization": "부산광역시",
+        "update_date": "2021-09-23",
+        "hits": "1141",
+        "request_count": "47",
+        "keyword": "인기도서,대출횟수,저자명"
+    },
+    {
+        "title": "국토교통부_토지융합정보",
+        "provider_organization": "국토교통부",
+        "update_date": "2022-03-07",
+        "hits": "7107",
+        "request_count": "341",
+        "keyword": "토지,도서,토지이용계획"
+    },
+    {
+        "title": "문화체육관광부_국립세종도서관 사서추천도서",
+        "provider_organization": "문화체육관광부",
+        "update_date": "2022-08-30",
+        "hits": "518",
+        "request_count": "56",
+        "keyword": "국립세종도서관,사서추천도서,도서관"
+    },
+    {
+        "title": "전라남도_전남 도립 도서관 도서 현황",
+        "provider_organization": "전라남도",
+        "update_date": "2021-06-21",
+        "hits": "2184",
+        "request_count": "44",
+        "keyword": "전라남도,도립 도서관,전남 도립 도서관"
+    },
+    {
+        "title": "경기도 용인시_도서관 신간도서 정보 조회 서비스",
+        "provider_organization": "경기도 용인시",
+        "update_date": "2021-12-24",
+        "hits": "1144",
+        "request_count": "52",
+        "keyword": "용인시,도서관,신간도서"
+    },
+    {
+        "title": "충청남도 공주시_시립도서관 도서목록 DB",
+        "provider_organization": "충청남도 공주시",
+        "update_date": "2019-10-02",
+        "hits": "2323",
+        "request_count": "45",
+        "keyword": "공주시립도서관,도서관,도서목록"
+    },
+    {
+        "title": "농촌진흥청_수출농업 발간도서",
+        "provider_organization": "농촌진흥청",
+        "update_date": "2022-06-21",
+        "hits": "1496",
+        "request_count": "35",
+        "keyword": "농촌,수출농업,발간도서"
+    },
+    {
+        "title": "제주특별자치도 서귀포시_서귀포시 행정자료실 도서목록",
+        "provider_organization": "제주특별자치도 서귀포시",
+        "update_date": "2022-07-29",
+        "hits": "1471",
+        "request_count": "46",
+        "keyword": "행정자료실,서귀포시행정자료,서귀포시행정"
+    },
+    {
+        "title": "한국전력공사_도서발전소 운영원가 정보 서비스",
+        "provider_organization": "한국전력공사",
+        "update_date": "2022-09-30",
+        "hits": "2323",
+        "request_count": "45",
+        "keyword": "도서발전소,종합원가계산,운영원가"
+    },
+    {
+        "title": "해양수산부_특정도서",
+        "provider_organization": "해양수산부",
+        "update_date": "2022-03-07",
+        "hits": "1384",
+        "request_count": "10",
+        "keyword": "특정,도서,특정도서"
+    },
+    {
+        "title": "제주특별자치도_제주공공도서관 신간도서목록 정보",
+        "provider_organization": "제주특별자치도",
+        "update_date": "2019-12-19",
+        "hits": "2864",
+        "request_count": "42",
+        "keyword": "도서관,공공도서관,프로그램"
+    },
+    {
+        "title": "한국전력공사_도서발전설비 관리현황 서비스",
+        "provider_organization": "한국전력공사",
+        "update_date": "2022-09-30",
+        "hits": "2339",
+        "request_count": "38",
+        "keyword": "도서발전소,종합원가계산서,발전설비"
+    },
+    {
+        "title": "문화체육관광부_국립민속박물관_발간도서",
+        "provider_organization": "문화체육관광부",
+        "update_date": "2022-08-24",
+        "hits": "396",
+        "request_count": "11",
+        "keyword": "문화체육도서,국립민속박물관,도서"
+    },
+    {
+        "title": "통일부_북한교과서 및 어린이도서 조회 서비스",
+        "provider_organization": "통일부",
+        "update_date": "2022-10-11",
+        "hits": "1416",
+        "request_count": "42",
+        "keyword": "북한,교과서,어린이"
+    },
+    {
+        "title": "대전광역시 서구_가수원도서관도서현황",
+        "provider_organization": "대전광역시 서구",
+        "update_date": "2022-11-18",
+        "hits": "534",
+        "request_count": "35",
+        "keyword": "도서명,출판사,저자"
+    }
+]
